@@ -33,5 +33,7 @@ SFML - Multimedia library used for graphics and sound
 Hemanth Kumar - Creator and maintainer of this project
 
 <h2>Output:</h2>
+
+
 ![highwayRacer](https://user-images.githubusercontent.com/82110100/217809288-111fe682-4819-4152-accb-6a57b77db472.png)
 
